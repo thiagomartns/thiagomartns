@@ -1,8 +1,7 @@
 ## Prazer, sou o Thiago! 👋
 
-- 🔭 Aspirante a FrontEnd Dev
+- 🔭 FrontEnd Dev
 - 🏆 Apaixonado por novas aventuras
-- 🤷‍♂️ Muito provavelmente estudando nesse momento.
 - 🧙‍♂️ "You must trust yourself and your own strength!"
 
 ### Vamos nos conectar!
